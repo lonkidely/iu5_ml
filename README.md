@@ -6,7 +6,8 @@
 
 1. [Лабораторная работа №1](https://github.com/lonkidely/iu5_ml/tree/master/lab1/lab1.ipynb)
    - [Отчет по ЛР1](https://github.com/lonkidely/iu5_ml/tree/master/reports/lab1.pdf)
-2. Лабораторная работа №2
+2. [Лабораторная работа №2](https://github.com/lonkidely/iu5_ml/tree/master/lab2/lab2.ipynb)
+   - [Отчет по ЛР2](https://github.com/lonkidely/iu5_ml/tree/master/reports/lab2.pdf)
 3. Лабораторная работа №3
 4. Лабораторная работа №4
 

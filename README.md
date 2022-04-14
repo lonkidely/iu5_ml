@@ -8,7 +8,8 @@
    - [Отчет по ЛР1](https://github.com/lonkidely/iu5_ml/tree/master/reports/lab1.pdf)
 2. [Лабораторная работа №2](https://github.com/lonkidely/iu5_ml/tree/master/lab2/lab2.ipynb)
    - [Отчет по ЛР2](https://github.com/lonkidely/iu5_ml/tree/master/reports/lab2.pdf)
-3. Лабораторная работа №3
+3. [Лабораторная работа №3](https://github.com/lonkidely/iu5_ml/tree/master/lab3/lab3.ipynb)
+   - [Отчет по ЛР3](https://github.com/lonkidely/iu5_ml/tree/master/reports/lab3.pdf)
 4. Лабораторная работа №4
 
 ## Рубежные контроли:

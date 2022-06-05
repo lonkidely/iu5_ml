@@ -18,3 +18,8 @@
    - [Отчет по РК1](https://github.com/lonkidely/iu5_ml/tree/master/reports/rk1.pdf)
 2. [Рубежный контроль №2](https://github.com/lonkidely/iu5_ml/tree/master/rk2/rk2.ipynb)
    - [Отчет по РК2](https://github.com/lonkidely/iu5_ml/tree/master/reports/rk2.pdf)
+
+## Научно-исследовательская работа:
+0. [Выбранный датасет](https://github.com/lonkidely/iu5_ml/tree/master/research_work/heart_failure_clinical_records_dataset.csv)
+1. [Jupyter-ноутбук](https://github.com/lonkidely/iu5_ml/tree/master/research_work/research_work.ipynb)
+2. [Отчет по НИР](https://github.com/lonkidely/iu5_ml/tree/master/reports/research_work.pdf)

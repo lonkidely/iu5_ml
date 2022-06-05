@@ -16,5 +16,5 @@
 
 1. [Рубежный контроль №1](https://github.com/lonkidely/iu5_ml/tree/master/rk1/rk1.ipynb)
    - [Отчет по РК1](https://github.com/lonkidely/iu5_ml/tree/master/reports/rk1.pdf)
-2. Рубежный контроль №2
-   - Отчет по РК2
+2. [Рубежный контроль №2](https://github.com/lonkidely/iu5_ml/tree/master/rk2/rk2.ipynb)
+   - [Отчет по РК2](https://github.com/lonkidely/iu5_ml/tree/master/reports/rk2.pdf)
